@@ -6,13 +6,20 @@
 简单智能产品介绍及开发文档
 =======================
 
-网站建设中，简单智能产品的介绍及开发文档。
+
+
 现有产品：1. TD01
 
 
 .. toctree::
    :maxdepth: 2
-   :caption: 引言:
+   :caption: 简介:
 
    introduction/index
+
+.. toctree::
+   :maxdepth: 2
+   :caption: 快速入门:
+
+   started/started
 
